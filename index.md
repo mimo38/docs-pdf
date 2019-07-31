@@ -1,7 +1,7 @@
 ## Partitions et documents en pdf
 
 Voici une partition :
-[Messe bleue](https://github.com/mimo38/PDF/raw/master/MesseBleueLy.pdf)
+[Messe bleue](https://github.com/mimo38/PDF/raw/master/MesseBleueLy.pdf)![Image](PDF.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
