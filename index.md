@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Partitions et documents en pdf
 
 You can use the [editor on GitHub](https://github.com/mimo38/docs-pdf/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
